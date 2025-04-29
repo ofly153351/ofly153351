@@ -2,7 +2,6 @@
 <h3 align="center">I am a full-stack developer skilled in Next.js, Express, React, and Tailwind CSS. I am focused on building responsive and user-friendly websites.</h3>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ooooooooob" alt="ooooooooob" /></a> </p>
 
 - 🔭 I’m currently working on **ActivitiesManagemetRmuti**
 
