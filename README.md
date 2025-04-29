@@ -6,13 +6,13 @@
 
 - 🔭 I’m currently working on **ActivitiesManagemetRmuti**
 
-- 🌱 I’m currently learning **React.js, Vue.js , Go Fiber and advanced , TypeScript & Zustand for scalable state management PostgreSQL**
+- 🌱 I’m currently learning **React.js , Go Fiber and advanced , TypeScript & Zustand for scalable state management PostgreSQL**
 
 - 👨‍💻 All of my projects are available at [-](-)
 
 - 📝 I regularly write articles on [-](-)
 
-- 💬 Ask me about **React.js, Vue.js**
+- 💬 Ask me about **React.js, 
 
 - 📫 How to reach me **peel2aput@gmail.com**
 
